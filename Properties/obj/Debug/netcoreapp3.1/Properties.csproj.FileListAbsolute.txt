@@ -1,0 +1,13 @@
+C:\Users\Sampath Goteti\source\repos\Properties\Properties\bin\Debug\netcoreapp3.1\Properties.exe
+C:\Users\Sampath Goteti\source\repos\Properties\Properties\bin\Debug\netcoreapp3.1\Properties.deps.json
+C:\Users\Sampath Goteti\source\repos\Properties\Properties\bin\Debug\netcoreapp3.1\Properties.runtimeconfig.json
+C:\Users\Sampath Goteti\source\repos\Properties\Properties\bin\Debug\netcoreapp3.1\Properties.runtimeconfig.dev.json
+C:\Users\Sampath Goteti\source\repos\Properties\Properties\bin\Debug\netcoreapp3.1\Properties.dll
+C:\Users\Sampath Goteti\source\repos\Properties\Properties\bin\Debug\netcoreapp3.1\Properties.pdb
+C:\Users\Sampath Goteti\source\repos\Properties\Properties\obj\Debug\netcoreapp3.1\Properties.csprojAssemblyReference.cache
+C:\Users\Sampath Goteti\source\repos\Properties\Properties\obj\Debug\netcoreapp3.1\Properties.AssemblyInfoInputs.cache
+C:\Users\Sampath Goteti\source\repos\Properties\Properties\obj\Debug\netcoreapp3.1\Properties.AssemblyInfo.cs
+C:\Users\Sampath Goteti\source\repos\Properties\Properties\obj\Debug\netcoreapp3.1\Properties.csproj.CoreCompileInputs.cache
+C:\Users\Sampath Goteti\source\repos\Properties\Properties\obj\Debug\netcoreapp3.1\Properties.dll
+C:\Users\Sampath Goteti\source\repos\Properties\Properties\obj\Debug\netcoreapp3.1\Properties.pdb
+C:\Users\Sampath Goteti\source\repos\Properties\Properties\obj\Debug\netcoreapp3.1\Properties.genruntimeconfig.cache
